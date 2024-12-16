@@ -32,7 +32,7 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: a@a.com #optional
+    email: jimenazerboni@gmail.com
     phone: 234 2342 342 #optional
     website: asd.com #optional
     linkedin: alandoe #optional
@@ -48,13 +48,13 @@ basic_info:
     # Languages you speak, levels include: Native, Professional
     languages:
       - idiom: English
-        level: Native
+        level: Professional
 
       - idiom: French
-        level: Professional
+        level: Basic
 
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     # Interests or hobbies
     interests:
